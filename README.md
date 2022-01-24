@@ -1,1 +1,1 @@
-# ML_MIPT_supervised_learning
+# Обучение на размеченных данных
